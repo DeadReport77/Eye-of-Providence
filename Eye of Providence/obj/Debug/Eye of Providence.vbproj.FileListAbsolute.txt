@@ -1,0 +1,12 @@
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\bin\Debug\Eye of Providence.exe.config
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\bin\Debug\Eye of Providence.exe
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\bin\Debug\Eye of Providence.pdb
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\bin\Debug\Eye of Providence.xml
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\obj\Debug\Eye of Providence.vbprojAssemblyReference.cache
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\obj\Debug\Eye_of_Providence.Form1.resources
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\obj\Debug\Eye_of_Providence.Resources.resources
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\obj\Debug\Eye of Providence.vbproj.GenerateResource.cache
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\obj\Debug\Eye of Providence.vbproj.CoreCompileInputs.cache
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\obj\Debug\Eye of Providence.exe
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\obj\Debug\Eye of Providence.xml
+C:\Users\Leeraoy.Jenkins\source\repos\Eye of Providence\obj\Debug\Eye of Providence.pdb
